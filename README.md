@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cloud/DevOps Engineer
 ---------------------
 
-Passionate about automation
+A dedicated Cloud/DevOps Engineer with a fervor for leveraging cutting-edge technologies to drive automation in cloud infrastructure.
 
 * 🌍  I'm based in Halifax, Canada
 * 🖥️  See my portfolio at [My Blog](http://medium.com/@ndlovumpara)
